@@ -42,4 +42,5 @@ document.write('<img width=420 height=420 src="data:image/png;base64,' + data + 
 ```
 
 
-[Requires PNGLib](http://www.xarg.org/download/pnglib.js)
+Requires PNGLib.php which i have include in this replositoy, so don't forget to link it in your document.
+Have fun with identicons.
