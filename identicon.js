@@ -1,15 +1,3 @@
-/**
- * Identicon.js v1.2.1
- * http://github.com/stewartlord/identicon.js
- *
- * Requires PNGLib
- * http://www.xarg.org/download/pnglib.js
- *
- * Copyright 2013, Stewart Lord
- * Released under the BSD license
- * http://www.opensource.org/licenses/bsd-license.php
- */
-
 (function() {
     var PNGlib;
     if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
